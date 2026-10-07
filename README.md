@@ -6,6 +6,9 @@ This repository holds the book's content. A build script turns it into a static 
 book.json                 chapter order, collections, scientist info, publishing rules
 chapters/*.html           chapter text, exactly as the editor saves it
 dictionary/entries.json   Bio-Dictionary: term, definition, illustration, other forms
+chapters/<slug>.es.html   translations (same markup as the English file, translated text)
+dictionary/entries.es.json translated terms and definitions (illustrations are shared)
+i18n/<lang>.json          interface text and translated titles, banner, scientist bios
 src/reader.css, reader.js the reader's look and behaviour (popovers, videos, contents)
 build.js                  the builder
 .github/workflows/        builds and publishes automatically on GitHub
@@ -57,6 +60,16 @@ After that:
 - **Pull requests build without publishing,** so you can read the report first.
 - **Actions → Build and publish book → Run workflow → Go-live build** runs the strict rights check.
 - **Rolling back** means reverting the commit; the previous version is republished automatically.
+
+## Languages
+
+The site is built in every language listed in `book.json` (`"languages": ["en", "es", "fr"]`). English stays at the root of the site; Spanish and French live under `/es/` and `/fr/` with the same page names, so the EN · ES · FR switch at the top right always lands on the same page in the other language. The reader's choice is remembered on the home page.
+
+- If a chapter has no translation yet, that language shows the English text with a notice, and the build report lists it as a warning.
+- Untranslated dictionary entries and missing interface text fall back to English the same way.
+- Figure rights are checked once (in English), since the images are shared.
+
+To add a language: add its code to `book.json`, copy `i18n/es.json` to `i18n/<code>.json` and translate it, then add `chapters/<slug>.<code>.html` and `dictionary/entries.<code>.json`.
 
 ## Adding a chapter
 

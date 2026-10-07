@@ -1,6 +1,12 @@
 {
   "title": "The Explorer's Guide to Biology",
   "tagline": "Biology as detective work, told by the scientists who did it",
+  "languages": [
+    "en",
+    "es",
+    "fr"
+  ],
+  "defaultLanguage": "en",
   "site": {
     "noindex": true,
     "banner": "Prototype for internal review. Not the official Explorer's Guide to Biology site; figure permissions are still being confirmed."
