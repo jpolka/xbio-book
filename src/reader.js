@@ -44,7 +44,7 @@
   pop.addEventListener('mouseleave', hideSoon);
   document.addEventListener('click', ev => { if(!ev.target.closest('.term, .pop')) pop.hidden = true; });
   document.addEventListener('keydown', ev => { if(ev.key === 'Escape'){ pop.hidden = true; document.body.classList.remove('toc-open'); } });
-  addEventListener('scroll', () => { if(!canHover) pop.hidden = true; }, {passive:true});
+  addEventListener('scroll', () => { pop.hidden = true; }, {passive:true});
 
   /* ---- Click-to-load video ---- */
   $$('.video-frame .play[data-embed]').forEach(a => a.addEventListener('click', ev => {
