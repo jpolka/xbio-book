@@ -1,0 +1,15 @@
+{
+  "name": "xbio-book",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Static build of the Explorer's Guide to Biology",
+  "scripts": {
+    "build": "node build.js",
+    "build:strict": "node build.js --strict",
+    "serve": "node serve.js"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0"
+  },
+  "engines": { "node": ">=20" }
+}

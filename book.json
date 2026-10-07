@@ -1,0 +1,143 @@
+{
+  "title": "The Explorer's Guide to Biology",
+  "tagline": "Biology as detective work, told by the scientists who did it",
+  "site": {
+    "noindex": true,
+    "banner": "Prototype for internal review. Not the official Explorer's Guide to Biology site; figure permissions are still being confirmed."
+  },
+  "rules": {
+    "rights": "warn",
+    "allowedRights": [
+      "original",
+      "cleared",
+      "pd"
+    ]
+  },
+  "collections": [
+    {
+      "id": "cell-biology",
+      "title": "Cell Biology",
+      "chapters": [
+        {
+          "title": "Stem Cells",
+          "authors": "Janet Rossant",
+          "year": 1961,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57372/stem%20cells.png",
+          "status": "not-migrated"
+        },
+        {
+          "title": "Molecules Involved in Membrane Trafficking",
+          "authors": "Jennifer Lippincott-Schwartz",
+          "year": 1979,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57359/Molecules%20involved%20in%20membrane%20trafficking.jpg",
+          "status": "not-migrated"
+        },
+        {
+          "title": "How Bacteria Talk to Each Other",
+          "authors": "Bonnie Bassler",
+          "year": 1983,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57363/conver-image%20-Bacteria%20communicate%20each%20other.png",
+          "status": "not-migrated"
+        },
+        {
+          "title": "Kinesin and Intracellular Transport",
+          "authors": "Ron Vale",
+          "year": 1985,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/58000/Thumbnail.png",
+          "slug": "kinesin-and-intracellular-transport",
+          "file": "chapters/kinesin-and-intracellular-transport.html",
+          "scientist": {
+            "name": "Ron Vale",
+            "affiliation": "Janelia Research Campus",
+            "photo": "https://xbio-live.s3.amazonaws.com/narratives/58000/Author_1.png",
+            "bio": "Ron Vale grew up in Hollywood, California and is a first-generation college student. Best known for his work on molecular motors, Ron is a recipient of the Lasker and Gairdner awards. He founded iBiology, IndiaBioscience, and The Explorer's Guide to Biology."
+          },
+          "published": "May 2024"
+        },
+        {
+          "title": "Lighting up Biology with the Green Fluorescent Protein",
+          "authors": "Martin Chalfie, Ghia Euskirchen",
+          "year": 1994,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57371/Lighting%20up%20biology.png",
+          "status": "not-migrated"
+        },
+        {
+          "title": "Induced Pluripotent Stem Cells",
+          "authors": "Shinya Yamanaka",
+          "year": 2006,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/50923/cover%20image%20-%20Induced%20Pluripotent%20stem%20cells.png",
+          "status": "not-migrated"
+        }
+      ]
+    },
+    {
+      "id": "genetics",
+      "title": "Genetics",
+      "chapters": [
+        {
+          "title": "Mendel and the Laws of Inheritance",
+          "authors": "Shirley Tilghman",
+          "year": 1866,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57361/Law%20of%20Inheritance.png",
+          "status": "not-migrated"
+        },
+        {
+          "title": "Mutations: Drivers of Evolution and Disease",
+          "authors": "Doug Koshland",
+          "year": 1943,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57367/Mutations.png",
+          "status": "not-migrated"
+        },
+        {
+          "title": "The Twisting Path to the DNA Double Helix",
+          "authors": "Ron Vale",
+          "year": 1953,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57362/Twisting%20path%20helix%20-%20structure%20of%20DNA.png",
+          "status": "not-migrated"
+        },
+        {
+          "title": "How DNA Replicates",
+          "authors": "Matthew Meselson and Franklin W. Stahl",
+          "year": 1958,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57370/How%20DNA%20Replicates.png",
+          "status": "not-migrated"
+        },
+        {
+          "title": "The Genetic Basis of Cancer",
+          "authors": "J. Michael Bishop",
+          "year": 1976,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57366/Genetic%20basis%20of%20cancer.png",
+          "status": "not-migrated"
+        },
+        {
+          "title": "Evolution in Action",
+          "authors": "Peter and Rosemary Grant",
+          "year": 1993,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57373/EVOLUTIONII.png",
+          "status": "not-migrated"
+        },
+        {
+          "title": "CRISPR-Cas: A Bacterial Immune System",
+          "authors": "Rodolphe Barrangou",
+          "year": 2007,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57360/Crispr%20cas%20-%20Bacterial%20Immune.png",
+          "status": "not-migrated"
+        },
+        {
+          "title": "Genetic Engineering of Flood-Tolerant Rice",
+          "authors": "Pamela Ronald",
+          "year": 2007,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57365/Genetic%20Engineering%20of%20Flood-Tolerant%20Rice.png",
+          "status": "not-migrated"
+        },
+        {
+          "title": "CRISPR-Cas9: A Tool for Genome Editing",
+          "authors": "Jennifer Doudna, Kevin Doxzen and Martin Jinek",
+          "year": 2012,
+          "cover": "https://xbio-live.s3.amazonaws.com/narratives/57368/crispr%20cas%209.png",
+          "status": "not-migrated"
+        }
+      ]
+    }
+  ]
+}
