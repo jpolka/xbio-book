@@ -1,0 +1,72 @@
+{
+  "label": "Français",
+  "ui": {
+    "skip": "Aller au contenu",
+    "mainNav": "Navigation principale",
+    "language": "Langue",
+    "library": "Bibliothèque",
+    "dictionary": "Bio-Dictionnaire",
+    "openContents": "Ouvrir la table des matières",
+    "built": "Généré le {date}",
+    "backLibrary": "← Bibliothèque",
+    "inThisKD": "Dans cette Découverte clé",
+    "chapterContents": "Table des matières du chapitre",
+    "keyDiscoveries": "Découvertes clés",
+    "published": "Publié en {date}",
+    "minRead": "Lecture : ~{n} min",
+    "spotlight": "Au cœur de l’histoire",
+    "portraitOf": "Portrait de {name}",
+    "railLabel": "Termes du Bio-Dictionnaire dans ce chapitre",
+    "railTitle": "Bio-Dictionnaire · {n} termes",
+    "mention_one": "{n} occurrence",
+    "mention_other": "{n} occurrences",
+    "eyebrow": "Manuel interactif gratuit",
+    "heroText": "Les Découvertes clés suivent de vraies expériences, de la première énigme jusqu'à la percée. Chaque terme souligné ouvre une illustration dessinée à la main du {link}.",
+    "notMigrated": "Pas encore migré",
+    "visualGlossary": "Glossaire illustré",
+    "dictIntro": "Chaque entrée associe une courte définition à une illustration.",
+    "dictDescription": "Un glossaire illustré des termes de biologie.",
+    "filter": "Filtrer les entrées",
+    "jumpLetter": "Aller à la lettre",
+    "appearsIn": "Apparaît dans",
+    "notLinked": "Pas encore lié depuis un chapitre.",
+    "illustrationOf": "Illustration : {term}",
+    "openEntry": "Voir l'entrée →",
+    "explorersQuestion": "Question de l'explorateur",
+    "showAnswer": "Afficher la réponse",
+    "playVideo": "Lire la vidéo {n}",
+    "video": "Vidéo {n}",
+    "videoLang": "en anglais",
+    "notTranslated": "Ce chapitre n'est pas encore disponible en français ; il est donc affiché en anglais.",
+    "notFound": "Page introuvable",
+    "backToLibrary": "Retour à la bibliothèque"
+  },
+  "book": {
+    "tagline": "La biologie comme une enquête, racontée par les scientifiques qui l'ont menée",
+    "banner": "Prototype pour relecture interne. Ce n'est pas le site officiel de The Explorer's Guide to Biology ; les autorisations des figures sont en cours de vérification. Traduction automatique en attente de relecture.",
+    "collections": { "cell-biology": "Biologie cellulaire", "genetics": "Génétique" },
+    "chapterTitles": {
+      "Stem Cells": "Les cellules souches",
+      "Molecules Involved in Membrane Trafficking": "Les molécules du trafic membranaire",
+      "How Bacteria Talk to Each Other": "Comment les bactéries communiquent entre elles",
+      "Kinesin and Intracellular Transport": "La kinésine et le transport intracellulaire",
+      "Lighting up Biology with the Green Fluorescent Protein": "Éclairer la biologie grâce à la protéine fluorescente verte",
+      "Induced Pluripotent Stem Cells": "Les cellules souches pluripotentes induites",
+      "Mendel and the Laws of Inheritance": "Mendel et les lois de l'hérédité",
+      "Mutations: Drivers of Evolution and Disease": "Les mutations, moteurs de l'évolution et des maladies",
+      "The Twisting Path to the DNA Double Helix": "Le chemin sinueux vers la double hélice de l'ADN",
+      "How DNA Replicates": "Comment l'ADN se réplique",
+      "The Genetic Basis of Cancer": "Les bases génétiques du cancer",
+      "Evolution in Action": "L'évolution en action",
+      "CRISPR-Cas: A Bacterial Immune System": "CRISPR-Cas : un système immunitaire bactérien",
+      "Genetic Engineering of Flood-Tolerant Rice": "Le génie génétique d'un riz tolérant aux inondations",
+      "CRISPR-Cas9: A Tool for Genome Editing": "CRISPR-Cas9 : un outil d'édition du génome"
+    },
+    "chapters": {
+      "kinesin-and-intracellular-transport": {
+        "published": "mai 2024",
+        "bio": "Ron Vale a grandi à Hollywood, en Californie, et a été le premier de sa famille à faire des études supérieures. Connu surtout pour ses travaux sur les moteurs moléculaires, il a reçu les prix Lasker et Gairdner. Il a fondé iBiology, IndiaBioscience et The Explorer's Guide to Biology."
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "label": "Español",
+  "ui": {
+    "skip": "Ir al contenido",
+    "mainNav": "Principal",
+    "language": "Idioma",
+    "library": "Biblioteca",
+    "dictionary": "Biodiccionario",
+    "openContents": "Abrir índice",
+    "built": "Generado el {date}",
+    "backLibrary": "← Biblioteca",
+    "inThisKD": "En este Descubrimiento clave",
+    "chapterContents": "Índice del capítulo",
+    "keyDiscoveries": "Descubrimientos clave",
+    "published": "Publicado en {date}",
+    "minRead": "~{n} min de lectura",
+    "spotlight": "Protagonista de la historia",
+    "portraitOf": "Retrato de {name}",
+    "railLabel": "Términos del Biodiccionario en este capítulo",
+    "railTitle": "Biodiccionario · {n} términos",
+    "mention_one": "{n} mención",
+    "mention_other": "{n} menciones",
+    "eyebrow": "Libro de texto interactivo y gratuito",
+    "heroText": "Los Descubrimientos clave siguen experimentos reales, desde el primer enigma hasta el gran hallazgo. Cada término subrayado abre una ilustración dibujada a mano del {link}.",
+    "notMigrated": "Aún no migrado",
+    "visualGlossary": "Glosario visual",
+    "dictIntro": "Cada entrada combina una definición breve con una ilustración.",
+    "dictDescription": "Un glosario visual de términos de biología.",
+    "filter": "Filtrar entradas",
+    "jumpLetter": "Ir a la letra",
+    "appearsIn": "Aparece en",
+    "notLinked": "Todavía no está enlazado desde ningún capítulo.",
+    "illustrationOf": "Ilustración: {term}",
+    "openEntry": "Ver entrada →",
+    "explorersQuestion": "Pregunta del explorador",
+    "showAnswer": "Mostrar respuesta",
+    "playVideo": "Reproducir vídeo {n}",
+    "video": "Vídeo {n}",
+    "videoLang": "en inglés",
+    "notTranslated": "Este capítulo todavía no está disponible en español, así que se muestra en inglés.",
+    "notFound": "Página no encontrada",
+    "backToLibrary": "Volver a la biblioteca"
+  },
+  "book": {
+    "tagline": "La biología como trabajo de detective, contada por quienes hicieron los descubrimientos",
+    "banner": "Prototipo para revisión interna. No es el sitio oficial de The Explorer's Guide to Biology; los permisos de las figuras aún se están confirmando. Traducción automática pendiente de revisión.",
+    "collections": { "cell-biology": "Biología celular", "genetics": "Genética" },
+    "chapterTitles": {
+      "Stem Cells": "Células madre",
+      "Molecules Involved in Membrane Trafficking": "Moléculas implicadas en el tráfico de membranas",
+      "How Bacteria Talk to Each Other": "Cómo se comunican las bacterias entre sí",
+      "Kinesin and Intracellular Transport": "La cinesina y el transporte intracelular",
+      "Lighting up Biology with the Green Fluorescent Protein": "Iluminar la biología con la proteína verde fluorescente",
+      "Induced Pluripotent Stem Cells": "Células madre pluripotentes inducidas",
+      "Mendel and the Laws of Inheritance": "Mendel y las leyes de la herencia",
+      "Mutations: Drivers of Evolution and Disease": "Mutaciones: motores de la evolución y de la enfermedad",
+      "The Twisting Path to the DNA Double Helix": "El sinuoso camino hacia la doble hélice del ADN",
+      "How DNA Replicates": "Cómo se replica el ADN",
+      "The Genetic Basis of Cancer": "Las bases genéticas del cáncer",
+      "Evolution in Action": "La evolución en acción",
+      "CRISPR-Cas: A Bacterial Immune System": "CRISPR-Cas: un sistema inmunitario bacteriano",
+      "Genetic Engineering of Flood-Tolerant Rice": "Ingeniería genética de un arroz tolerante a las inundaciones",
+      "CRISPR-Cas9: A Tool for Genome Editing": "CRISPR-Cas9: una herramienta para editar genomas"
+    },
+    "chapters": {
+      "kinesin-and-intracellular-transport": {
+        "published": "mayo de 2024",
+        "bio": "Ron Vale creció en Hollywood (California) y fue el primero de su familia en ir a la universidad. Conocido sobre todo por su trabajo sobre los motores moleculares, ha recibido los premios Lasker y Gairdner. Fundó iBiology, IndiaBioscience y The Explorer's Guide to Biology."
+      }
+    }
+  }
+}
