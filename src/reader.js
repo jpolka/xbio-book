@@ -8,6 +8,20 @@
   /* ---- Bio-Dictionary popovers ---- */
   const dataEl = $('#term-data');
   const TERMS = dataEl ? JSON.parse(dataEl.textContent) : {};
+  const uiEl = $('#ui-data');
+  const UI = Object.assign({ source: 'Bio-Dictionary', open: 'Open entry →' }, uiEl ? JSON.parse(uiEl.textContent) : {});
+
+  /* ---- Language: remember the reader's choice ---- */
+  const LANG_KEY = 'xbio.lang';
+  const safeGet = () => { try { return localStorage.getItem(LANG_KEY); } catch(e) { return null; } };
+  const safeSet = v => { try { localStorage.setItem(LANG_KEY, v); } catch(e) {} };
+  $$('.lang a[hreflang]').forEach(a => a.addEventListener('click', () => safeSet(a.hreflang)));
+  // On the library home page, send returning readers to the language they last chose
+  const pref = safeGet();
+  if (document.body.dataset.page === 'library' && pref && pref !== document.documentElement.lang) {
+    const target = $(`.lang a[hreflang="${pref}"]`);
+    if (target) location.replace(target.href);
+  }
   const pop = document.createElement('div');
   pop.className = 'pop'; pop.hidden = true; pop.setAttribute('role','tooltip');
   document.body.appendChild(pop);
@@ -16,7 +30,9 @@
     const e = TERMS[el.dataset.term]; if(!e) return;
     clearTimeout(hideTimer);
     pop.innerHTML = (e.image ? '<div class="pimg"><img alt=""></div>' : '') +
-      '<div class="pbody"><div class="src">Bio-Dictionary</div><div class="pt"></div><div class="pd"></div><a>Open entry →</a></div>';
+      '<div class="pbody"><div class="src"></div><div class="pt"></div><div class="pd"></div><a></a></div>';
+    $('.src', pop).textContent = UI.source;
+    $('a', pop).textContent = UI.open;
     if(e.image) $('img', pop).src = e.image;
     $('.pt', pop).textContent = e.term;
     $('.pd', pop).textContent = e.definition;
