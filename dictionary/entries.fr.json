@@ -1,0 +1,209 @@
+{
+  "actin": {
+    "term": "Actine",
+    "definition": "Protéine (représentée par des cercles sur le schéma) capable de s'assembler en filament. Les filaments d'actine sont un composant important du cytosquelette et interviennent dans la contraction musculaire et la motilité cellulaire.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ACTIN.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ACTIN.DP.RGB.png",
+    "alsoMatches": [
+      "actine",
+      "filaments d'actine",
+      "filament d'actine"
+    ]
+  },
+  "adenosine-triphosphate-atp": {
+    "term": "Adénosine triphosphate (ATP)",
+    "definition": "Composé chimique organique qui sert de source d'énergie à de nombreux processus biologiques et biochimiques chez toutes les formes de vie. On l'appelle souvent « la monnaie énergétique » de la cellule, car il assure les transferts d'énergie intracellulaires.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ADENOSINETRIPHOSPHATE.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ADENOSINETRIPHOSPHATE.png",
+    "alsoMatches": [
+      "ATP",
+      "adénosine triphosphate",
+      "adénosine-triphosphate"
+    ]
+  },
+  "assay": {
+    "term": "Test (essai)",
+    "definition": "Terme général désignant une expérience ou une procédure qui mesure une réaction biologique. Par exemple, le test d'une enzyme mesure la quantité de produit formé après l'ajout d'un substrat.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ASSAY.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ASSAY.DP.RGB.png",
+    "alsoMatches": [
+      "test",
+      "tests",
+      "essai",
+      "essais"
+    ]
+  },
+  "atpase": {
+    "term": "ATPase",
+    "definition": "Enzyme qui convertit l'ATP en ADP et en un ion phosphate inorganique. L'hydrolyse de l'ATP libère de l'énergie utilisable par divers processus cellulaires, tandis que la synthèse d'ATP nécessite de l'énergie.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ATPASEV.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ATPASEV.DP.RGB.png",
+    "alsoMatches": [
+      "ATPase",
+      "ATPases"
+    ]
+  },
+  "axon": {
+    "term": "Axone",
+    "definition": "Long prolongement des cellules nerveuses. Certains axones mesurent un mètre de long pour un diamètre près d'un million de fois plus petit. Les axones conduisent les influx électriques du corps cellulaire vers la terminaison nerveuse, ce qui permet aux neurones de communiquer avec d'autres neurones ou d'autres cellules.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/AXON.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/AXON.DP.RGB.png",
+    "alsoMatches": [
+      "axone",
+      "axones"
+    ]
+  },
+  "cilia": {
+    "term": "Cils",
+    "definition": "Les cils sont de courtes protubérances en forme de poils qui émergent de la membrane plasmique de la plupart des cellules eucaryotes ; ils interviennent dans le mouvement ou dans la collecte d'informations sensorielles.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/CILIAIII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/CILIAIII.DP.RGB.png",
+    "alsoMatches": [
+      "cil",
+      "cils"
+    ]
+  },
+  "control-experiment": {
+    "term": "Expérience témoin",
+    "definition": "Procédure scientifique dont le résultat est prévisible et dans laquelle les variables sont contrôlées de façon à pouvoir observer l'effet de la variation d'un seul facteur à la fois.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/CONTROLEXPERIMENTII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/CONTROLEXPERIMENTII.DP.RGB.png",
+    "alsoMatches": [
+      "expérience témoin",
+      "expériences témoins",
+      "témoin négatif",
+      "témoin positif",
+      "contrôle négatif",
+      "contrôle positif"
+    ]
+  },
+  "cytoskeleton": {
+    "term": "Cytosquelette",
+    "definition": "Échafaudage formé de différentes protéines (principalement l'actine et la tubuline) qui donne sa structure à la cellule et permet à divers composants cellulaires de se déplacer à l'intérieur de celle-ci.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/CYTOSKELETONII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/CYTOSKELETONII.DP.RGB.png",
+    "alsoMatches": [
+      "cytosquelette"
+    ]
+  },
+  "dynein": {
+    "term": "Dynéine",
+    "definition": "Protéines motrices qui tirent leur énergie de l'hydrolyse de l'ATP pour se déplacer le long des microtubules, transporter des cargaisons et assurer le battement des cils et des flagelles. Dans les neurones, la dynéine se déplace le long des axones en transportant des cargaisons vers le corps cellulaire.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/DYNEIN_REII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/DYNEIN_REII.DP.RGB.png",
+    "alsoMatches": [
+      "dynéine",
+      "dynéines"
+    ]
+  },
+  "gel-electrophoresis": {
+    "term": "Électrophorèse sur gel",
+    "definition": "Méthode permettant de séparer un mélange d'ADN, d'ARN ou de protéines en fonction de leur taille et de leur charge électrique, en appliquant un champ électrique à travers un gel. Ce gel est généralement en agarose ou en polyacrylamide.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/GELELECTROPHORESIS.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/GELELECTROPHORESIS.DP.RGB.png",
+    "alsoMatches": [
+      "électrophorèse sur gel",
+      "électrophorèse sur gel de polyacrylamide",
+      "électrophorèse"
+    ]
+  },
+  "in-vitro": {
+    "term": "In vitro",
+    "definition": "Terme désignant l'étude d'un processus biologique en dehors de l'organisme naturel, soit au moyen d'une réaction biochimique en tube à essai, soit à l'aide de cellules isolées cultivées en boîte (modèle de culture cellulaire).",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/INVITRO.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/INVITRO.DP.RGB.png",
+    "alsoMatches": [
+      "in vitro"
+    ]
+  },
+  "in-vitro-reconstitution": {
+    "term": "Reconstitution in vitro",
+    "definition": "Études qui utilisent, en tube à essai, des composants cellulaires extraits ou des protéines purifiées pour reconstruire les événements biomoléculaires complexes qui se déroulent dans les cellules ou les organismes.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/INVITRORECONSTITUTIONIII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/INVITRORECONSTITUTIONIII.DP.RGB.png",
+    "alsoMatches": [
+      "reconstitution in vitro",
+      "reconstitution"
+    ]
+  },
+  "kinesin": {
+    "term": "Kinésine",
+    "definition": "Protéines motrices qui utilisent l'énergie de l'hydrolyse de l'ATP pour se déplacer le long des microtubules. Dans un neurone, elles transportent des cargaisons en s'éloignant du corps cellulaire.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/KINESIN_RE.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/KINESIN_RE.DP.RGB.png",
+    "alsoMatches": [
+      "kinésine",
+      "kinésines"
+    ]
+  },
+  "microtubule": {
+    "term": "Microtubule",
+    "definition": "Les microtubules sont des filaments composés d'une protéine, la tubuline ; ils interviennent dans la division cellulaire et le transport intracellulaire chez les cellules eucaryotes.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/MICROTUBULE.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/MICROTUBULE.DP.RGB.png",
+    "alsoMatches": [
+      "microtubule",
+      "microtubules"
+    ]
+  },
+  "mitochondria": {
+    "term": "Mitochondries",
+    "definition": "Les mitochondries sont des organites eucaryotes qui produisent de l'énergie pour la cellule sous forme d'ATP. Elles possèdent une double membrane et leur propre petit génome d'ADN.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/MITOCHONDRIA.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/MITOCHONDRIA.DP.RGB.png",
+    "alsoMatches": [
+      "mitochondrie",
+      "mitochondries"
+    ]
+  },
+  "motor-protein": {
+    "term": "Protéine motrice",
+    "definition": "Les protéines motrices convertissent l'énergie chimique (sous forme d'ATP) en travail et en mouvement le long des rails du cytosquelette. Elles assurent notamment le transport de cargaisons dans la cellule, le déplacement des chromosomes pendant la division, le battement des cils et la contraction des muscles.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/MOTORPROTEIN_REV.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/MOTORPROTEIN_REV.DP.RGB.png",
+    "alsoMatches": [
+      "protéine motrice",
+      "protéines motrices"
+    ]
+  },
+  "myosin": {
+    "term": "Myosine",
+    "definition": "Les myosines forment une famille de protéines motrices qui utilisent l'énergie de l'hydrolyse de l'ATP pour produire une force et un mouvement le long des filaments d'actine. Elles interviennent par exemple dans la contraction musculaire, la cytocinèse et le déplacement des organites intracellulaires.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/MYOSINII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/MYOSINII.DP.RGB.png",
+    "alsoMatches": [
+      "myosine",
+      "myosines"
+    ]
+  },
+  "neuron": {
+    "term": "Neurone",
+    "definition": "Les neurones sont des cellules dotées de prolongements élaborés, capables de recevoir, de traiter et de transmettre des signaux électriques. Ils interagissent en réseaux qui traitent les informations sensorielles et assurent les processus cognitifs supérieurs. Les différentes parties d'un neurone sont représentées.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/NEURON.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/NEURON.DP.RGB.png",
+    "alsoMatches": [
+      "neurone",
+      "neurones"
+    ]
+  },
+  "organelles": {
+    "term": "Organites",
+    "definition": "Compartiments situés à l'intérieur des cellules eucaryotes, chacun doté d'un microenvironnement chimique distinct. Ils peuvent être délimités par des membranes (par ex. les mitochondries) ou non (par ex. le nucléole).",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ORGANELLESII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ORGANELLESII.DP.RGB.png",
+    "alsoMatches": [
+      "organite",
+      "organites"
+    ]
+  },
+  "vesicle": {
+    "term": "Vésicule",
+    "definition": "Petite structure formée à l'intérieur d'une cellule, constituée d'un liquide (pouvant contenir divers composants cellulaires) entouré d'une bicouche lipidique hydrophobe.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/VESICLEII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/VESICLEII.DP.RGB.png",
+    "alsoMatches": [
+      "vésicule",
+      "vésicules"
+    ]
+  }
+}

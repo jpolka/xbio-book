@@ -1,0 +1,210 @@
+{
+  "actin": {
+    "term": "Actina",
+    "definition": "Proteína (representada como círculos en el dibujo) que puede ensamblarse para formar un filamento. Los filamentos de actina son un componente importante del citoesqueleto y participan en la contracción muscular y en la motilidad celular.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ACTIN.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ACTIN.DP.RGB.png",
+    "alsoMatches": [
+      "actina",
+      "filamentos de actina",
+      "filamento de actina"
+    ]
+  },
+  "adenosine-triphosphate-atp": {
+    "term": "Adenosín trifosfato (ATP)",
+    "definition": "Compuesto químico orgánico que es la fuente de energía de muchos procesos biológicos y bioquímicos en todas las formas de vida. A menudo se le llama «la moneda molecular» de la transferencia de energía intracelular.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ADENOSINETRIPHOSPHATE.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ADENOSINETRIPHOSPHATE.png",
+    "alsoMatches": [
+      "ATP",
+      "adenosín trifosfato",
+      "trifosfato de adenosina",
+      "adenosina trifosfato"
+    ]
+  },
+  "assay": {
+    "term": "Ensayo",
+    "definition": "Término general para un experimento o procedimiento que mide una reacción biológica. Por ejemplo, un ensayo para una enzima mide la cantidad de producto generado tras añadir un sustrato.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ASSAY.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ASSAY.DP.RGB.png",
+    "alsoMatches": [
+      "ensayo",
+      "ensayos"
+    ]
+  },
+  "atpase": {
+    "term": "ATPasa",
+    "definition": "Enzima que convierte el ATP en ADP y un ion fosfato inorgánico. La hidrólisis del ATP libera energía que puede utilizarse en diversos procesos celulares, mientras que la síntesis de ATP requiere energía.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ATPASEV.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ATPASEV.DP.RGB.png",
+    "alsoMatches": [
+      "ATPasa",
+      "ATPasas"
+    ]
+  },
+  "axon": {
+    "term": "Axón",
+    "definition": "Prolongación larga de las células nerviosas. Algunos axones miden un metro de longitud, pero su diámetro es casi un millón de veces menor. Los axones conducen impulsos eléctricos desde el cuerpo celular hasta la terminal nerviosa, lo que permite a las neuronas comunicarse con otras neuronas o con otras células.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/AXON.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/AXON.DP.RGB.png",
+    "alsoMatches": [
+      "axón",
+      "axones"
+    ]
+  },
+  "cilia": {
+    "term": "Cilios",
+    "definition": "Los cilios son prolongaciones cortas, semejantes a pelos, de la membrana plasmática de la mayoría de las células eucariotas, que participan en el movimiento o en la captación de información sensorial.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/CILIAIII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/CILIAIII.DP.RGB.png",
+    "alsoMatches": [
+      "cilios",
+      "cilio"
+    ]
+  },
+  "control-experiment": {
+    "term": "Experimento de control",
+    "definition": "Procedimiento científico con un resultado previsto en el que se controlan las variables para poder observar los efectos de modificar un solo factor a la vez.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/CONTROLEXPERIMENTII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/CONTROLEXPERIMENTII.DP.RGB.png",
+    "alsoMatches": [
+      "experimento de control",
+      "experimentos de control",
+      "control negativo",
+      "control positivo"
+    ]
+  },
+  "cytoskeleton": {
+    "term": "Citoesqueleto",
+    "definition": "Armazón formado por distintas proteínas (principalmente actina y tubulina) que da estructura a la célula y permite que diversos componentes celulares se desplacen dentro de ella.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/CYTOSKELETONII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/CYTOSKELETONII.DP.RGB.png",
+    "alsoMatches": [
+      "citoesqueleto"
+    ]
+  },
+  "dynein": {
+    "term": "Dineína",
+    "definition": "Proteínas motoras que obtienen energía de la hidrólisis del ATP para desplazarse a lo largo de los microtúbulos, transportar cargas e impulsar el batido de cilios y flagelos. En las neuronas, la dineína se desplaza a lo largo de los axones llevando cargas hacia el cuerpo celular.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/DYNEIN_REII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/DYNEIN_REII.DP.RGB.png",
+    "alsoMatches": [
+      "dineína",
+      "dineínas"
+    ]
+  },
+  "gel-electrophoresis": {
+    "term": "Electroforesis en gel",
+    "definition": "Método para separar una mezcla de ADN, ARN o proteínas según su tamaño y su carga eléctrica mediante la aplicación de un campo eléctrico a través del gel. Por lo general, el gel es de agarosa o de poliacrilamida.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/GELELECTROPHORESIS.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/GELELECTROPHORESIS.DP.RGB.png",
+    "alsoMatches": [
+      "electroforesis en gel",
+      "electroforesis en gel de poliacrilamida",
+      "electroforesis"
+    ]
+  },
+  "in-vitro": {
+    "term": "In vitro",
+    "definition": "Término que se refiere al estudio de un proceso biológico fuera del organismo natural, ya sea mediante una reacción bioquímica en un tubo de ensayo o utilizando células aisladas que crecen en una placa (modelo de cultivo celular).",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/INVITRO.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/INVITRO.DP.RGB.png",
+    "alsoMatches": [
+      "in vitro"
+    ]
+  },
+  "in-vitro-reconstitution": {
+    "term": "Reconstitución in vitro",
+    "definition": "Estudios que utilizan componentes celulares extraídos o proteínas purificadas en un tubo de ensayo para reconstruir los complejos procesos biomoleculares que ocurren en las células o en los organismos.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/INVITRORECONSTITUTIONIII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/INVITRORECONSTITUTIONIII.DP.RGB.png",
+    "alsoMatches": [
+      "reconstitución in vitro",
+      "reconstitución"
+    ]
+  },
+  "kinesin": {
+    "term": "Cinesina",
+    "definition": "Proteínas motoras que utilizan la energía de la hidrólisis del ATP para desplazarse a lo largo de los microtúbulos. En una neurona, transportan la carga alejándola del cuerpo celular.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/KINESIN_RE.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/KINESIN_RE.DP.RGB.png",
+    "alsoMatches": [
+      "cinesina",
+      "cinesinas",
+      "kinesina",
+      "kinesinas"
+    ]
+  },
+  "microtubule": {
+    "term": "Microtúbulo",
+    "definition": "Los microtúbulos son filamentos formados por la proteína tubulina; participan en la división celular y en el transporte intracelular de las células eucariotas.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/MICROTUBULE.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/MICROTUBULE.DP.RGB.png",
+    "alsoMatches": [
+      "microtúbulo",
+      "microtúbulos"
+    ]
+  },
+  "mitochondria": {
+    "term": "Mitocondrias",
+    "definition": "Las mitocondrias son orgánulos eucariotas que producen energía para la célula en forma de ATP. Las mitocondrias tienen una doble membrana y su propio genoma de ADN, de pequeño tamaño.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/MITOCHONDRIA.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/MITOCHONDRIA.DP.RGB.png",
+    "alsoMatches": [
+      "mitocondrias",
+      "mitocondria"
+    ]
+  },
+  "motor-protein": {
+    "term": "Proteína motora",
+    "definition": "Las proteínas motoras convierten la energía química (en forma de ATP) en trabajo y movimiento a lo largo de las vías del citoesqueleto. Entre sus funciones se encuentran transportar cargas dentro de la célula, mover los cromosomas durante la división, impulsar el batido de los cilios y contraer los músculos.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/MOTORPROTEIN_REV.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/MOTORPROTEIN_REV.DP.RGB.png",
+    "alsoMatches": [
+      "proteína motora",
+      "proteínas motoras"
+    ]
+  },
+  "myosin": {
+    "term": "Miosina",
+    "definition": "Las miosinas son una familia de proteínas motoras que utilizan la energía de la hidrólisis del ATP para generar fuerza y movimiento a lo largo de los filamentos de actina. Algunos ejemplos son la contracción muscular, la citocinesis y el movimiento de orgánulos intracelulares.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/MYOSINII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/MYOSINII.DP.RGB.png",
+    "alsoMatches": [
+      "miosina",
+      "miosinas"
+    ]
+  },
+  "neuron": {
+    "term": "Neurona",
+    "definition": "Las neuronas son células con prolongaciones complejas que pueden recibir, procesar y transmitir señales eléctricas. Las neuronas interactúan en redes que procesan la información sensorial y llevan a cabo procesos cognitivos superiores. Se muestran las partes de una neurona.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/NEURON.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/NEURON.DP.RGB.png",
+    "alsoMatches": [
+      "neurona",
+      "neuronas"
+    ]
+  },
+  "organelles": {
+    "term": "Orgánulos",
+    "definition": "Compartimentos del interior de las células eucariotas con microambientes químicos propios. Pueden estar delimitados por membranas (p. ej., las mitocondrias) o no estarlo (p. ej., el nucléolo).",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ORGANELLESII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ORGANELLESII.DP.RGB.png",
+    "alsoMatches": [
+      "orgánulo",
+      "orgánulos",
+      "organelo",
+      "organelos"
+    ]
+  },
+  "vesicle": {
+    "term": "Vesícula",
+    "definition": "Pequeña estructura formada dentro de una célula que consiste en un líquido (que puede contener diversos componentes celulares) encerrado por una bicapa lipídica hidrofóbica.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/VESICLEII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/VESICLEII.DP.RGB.png",
+    "alsoMatches": [
+      "vesícula",
+      "vesículas"
+    ]
+  }
+}
