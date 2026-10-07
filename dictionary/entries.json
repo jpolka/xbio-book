@@ -1,0 +1,142 @@
+{
+  "actin": {
+    "term": "Actin",
+    "definition": "A protein (shown as circles in the drawing) that can assemble into a filament. Actin filaments are an important component of the cytoskeleton and are involved in muscle contraction and cell motility.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ACTIN.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ACTIN.DP.RGB.png"
+  },
+  "adenosine-triphosphate-atp": {
+    "term": "Adenosine Triphosphate (ATP)",
+    "definition": "An organic chemical compound that is the source of energy for many biological and biochemical processes in all forms of life. It is often called \"the molecular unit of currency\" of intracellular energy transfer.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ADENOSINETRIPHOSPHATE.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ADENOSINETRIPHOSPHATE.png",
+    "alsoMatches": [
+      "ATP",
+      "adenosine triphosphate"
+    ]
+  },
+  "assay": {
+    "term": "Assay",
+    "definition": "A general term for an experiment or procedure that measures a biological reaction. As an example, an assay for an enzyme will measure the amount of product produced after adding a substrate.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ASSAY.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ASSAY.DP.RGB.png"
+  },
+  "atpase": {
+    "term": "ATPase",
+    "definition": "An enzyme that converts ATP into ADP and an inorganic phosphate ion. Hydrolyzing ATP releases energy that can be used in various cellular processes, whereas making ATP requires energy.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ATPASEV.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ATPASEV.DP.RGB.png"
+  },
+  "axon": {
+    "term": "Axon",
+    "definition": "A long process in nerve cells. Some axons are a meter in length but almost a million times smaller in diameter. Axons conduct electrical impulses from the cell body to the nerve terminal, which allows neurons to communicate with other neurons or other cells.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/AXON.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/AXON.DP.RGB.png"
+  },
+  "cilia": {
+    "term": "Cilia",
+    "definition": "Cilia are short, hair-like protrusions from the plasma membrane of most eukaryotic cells that are involved in movement or gathering sensory information.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/CILIAIII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/CILIAIII.DP.RGB.png"
+  },
+  "control-experiment": {
+    "term": "Control Experiment",
+    "definition": "A scientific procedure with a predicted outcome in which variables are controlled so as to make it possible to observe the results of varying one factor at a time.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/CONTROLEXPERIMENTII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/CONTROLEXPERIMENTII.DP.RGB.png",
+    "alsoMatches": [
+      "control experiment",
+      "negative control",
+      "positive control"
+    ]
+  },
+  "cytoskeleton": {
+    "term": "Cytoskeleton",
+    "definition": "A scaffold of different proteins (mainly actin and tubulin) that provides a cell with structure and allows a variety of cellular components to move around within the cell.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/CYTOSKELETONII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/CYTOSKELETONII.DP.RGB.png"
+  },
+  "dynein": {
+    "term": "Dynein",
+    "definition": "Motor proteins that get energy from hydrolyzing ATP to move along microtubules, transporting cargoes, and driving the beat of cilia and flagella. In neurons, dynein moves along axons carrying cargoes towards the cell body.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/DYNEIN_REII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/DYNEIN_REII.DP.RGB.png"
+  },
+  "gel-electrophoresis": {
+    "term": "Gel Electrophoresis",
+    "definition": "A method for separating a mixture of DNA, RNA, or proteins according to their size and electrical charge by applying an electric field across the gel. This gel is usually agarose or polyacrylamide.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/GELELECTROPHORESIS.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/GELELECTROPHORESIS.DP.RGB.png"
+  },
+  "in-vitro": {
+    "term": "In vitro",
+    "definition": "A term that refers to studying a biological process outside of the natural organism, either in a biochemical reaction in a test tube or using isolated cells growing on a dish (cell culture model).",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/INVITRO.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/INVITRO.DP.RGB.png",
+    "alsoMatches": [
+      "in vitro"
+    ]
+  },
+  "in-vitro-reconstitution": {
+    "term": "In vitro Reconstitution",
+    "definition": "Studies using extracted cellular components or purified proteins in a test tube to reconstruct the complex biomolecular events occurring in cells or organisms.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/INVITRORECONSTITUTIONIII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/INVITRORECONSTITUTIONIII.DP.RGB.png",
+    "alsoMatches": [
+      "in vitro reconstitution",
+      "reconstitution"
+    ]
+  },
+  "kinesin": {
+    "term": "Kinesin",
+    "definition": "Motor proteins that use energy from hydrolyzing ATP to move along microtubules. In a neuronal cell, carrying cargo away from the cell body.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/KINESIN_RE.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/KINESIN_RE.DP.RGB.png"
+  },
+  "microtubule": {
+    "term": "Microtubule",
+    "definition": "Microtubules are filaments composed of the protein tubulin; they are involved in cell division and intracellular transport in eukaryotic cells.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/MICROTUBULE.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/MICROTUBULE.DP.RGB.png"
+  },
+  "mitochondria": {
+    "term": "Mitochondria",
+    "definition": "Mitochondria are eukaryotic organelles that produce energy in the form of ATP for the cell. Mitochondria have double membranes and have their own small DNA genome.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/MITOCHONDRIA.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/MITOCHONDRIA.DP.RGB.png"
+  },
+  "motor-protein": {
+    "term": "Motor Protein",
+    "definition": "Motor proteins convert chemical energy (in the form of ATP) to work and motion along cytoskeletal tracks. Their functions include transporting cargo around in the cell, moving chromosomes during division, powering the beating of cilia, and contracting muscles.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/MOTORPROTEIN_REV.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/MOTORPROTEIN_REV.DP.RGB.png"
+  },
+  "myosin": {
+    "term": "Myosin",
+    "definition": "Myosins are a family of motor proteins that use energy from ATP hydrolysis to produce force and movement along actin filaments. Examples include muscle contraction, cytokinesis, and movement of intracellular organelles.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/MYOSINII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/MYOSINII.DP.RGB.png"
+  },
+  "neuron": {
+    "term": "Neuron",
+    "definition": "Neurons are cells with elaborate extensions that can receive, process, and transmit electrical signals. Neurons interact in networks that process sensory information and perform higher order cognitive processes. The parts of a neuron are shown.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/NEURON.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/NEURON.DP.RGB.png"
+  },
+  "organelles": {
+    "term": "Organelles",
+    "definition": "Compartments inside of eukaryotic cells with distinct chemical microenvironments. They can be bounded by membranes (e.g., mitochondria) or not bounded by membranes (e.g., nucleolus).",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/ORGANELLESII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/ORGANELLESII.DP.RGB.png",
+    "alsoMatches": [
+      "organelle",
+      "organelles"
+    ]
+  },
+  "vesicle": {
+    "term": "Vesicle",
+    "definition": "A small structure formed within a cell consisting of a liquid (which can contain a variety of cellular components) enclosed within a hydrophobic lipid bilayer.",
+    "image": "https://xbio-live.s3.amazonaws.com/bio-dictionary/VESICLEII.DP.RGB.png",
+    "thumb": "https://xbio-live.s3.amazonaws.com/bio-dictionary/thumb/VESICLEII.DP.RGB.png"
+  }
+}
