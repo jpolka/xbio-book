@@ -1,0 +1,58 @@
+# Builds the book and deploys it to GitHub Pages.
+#  - Every push to `main` (the editor's "Publish" button) builds and deploys.
+#  - Pull requests build only, so you can see the report before anything goes live.
+#  - "Run workflow" by hand offers a strict go-live build that blocks on rights problems.
+name: Build and publish book
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      strict:
+        description: "Go-live build (stop if any figure lacks cleared rights)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: media-${{ hashFiles('chapters/**', 'dictionary/**', 'book.json') }}
+          restore-keys: media-
+      - run: npm ci
+      - name: Build book
+        run: node build.js ${{ inputs.strict && '--strict' || '' }}
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: dist
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
